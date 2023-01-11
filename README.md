@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsauArmando
-- 👀 I’m interested in Create Web Pages
-- 🌱 I’m currently learning Entornos Virtuales
+- 👀 I’m interested in Videogames and crate Web Pages
+- 🌱 I’m currently learning about Web Development
 
 <!---
 EsauArmando/EsauArmando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
